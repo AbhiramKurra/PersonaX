@@ -63,28 +63,6 @@ Supports: Twitter, Instagram, Facebook, Reddit, LinkedIn, GitHub, TikTok, Pinter
 
 ---
 
-# 🗂️ Project Structure
-
-```
-PersonaX/
-│
-├── main.py
-├── gui.py
-│
-├── core/
-│   ├── search_engine.py
-│   ├── social_scraper.py
-│   ├── email_lookup.py
-│   ├── image_grabber.py
-│
-├── utils/
-│   └── helpers.py
-│
-└── assets/
-```
-
----
-
 # ⚙️ Installation
 
 ### 1. Clone the repository
@@ -142,3 +120,4 @@ Licensed under **MIT License**.
 # ⚠️ Disclaimer
 PersonaX is for **legal OSINT purposes only**.  
 The developer is not responsible for misuse.
+
