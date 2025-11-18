@@ -67,7 +67,7 @@ Supports: Twitter, Instagram, Facebook, Reddit, LinkedIn, GitHub, TikTok, Pinter
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/yourusername/PersonaX.git
+git clone https://github.com/AbhiramKurra/PersonaX.git
 cd PersonaX
 ```
 
@@ -120,4 +120,5 @@ Licensed under **MIT License**.
 # ⚠️ Disclaimer
 PersonaX is for **legal OSINT purposes only**.  
 The developer is not responsible for misuse.
+
 
