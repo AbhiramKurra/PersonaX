@@ -85,7 +85,7 @@ https://chromedriver.chromium.org/downloads
 # 🚀 Running PersonaX
 
 ```
-python main.py
+python app.py
 ```
 
 GUI will open and allow OSINT searches.
@@ -105,7 +105,7 @@ Illegal use is prohibited.
 
 # 🤝 Contributing
 The project is active and evolving.  
-If you'd like to help enhance it — you are welcome!
+If you'd like to help enhance it - you are welcome!
 
 📩 **Contact:**  
 Mail: kurra.abhiram@gmail.com
@@ -120,5 +120,6 @@ Licensed under **MIT License**.
 # ⚠️ Disclaimer
 PersonaX is for **legal OSINT purposes only**.  
 The developer is not responsible for misuse.
+
 
 
